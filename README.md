@@ -1,6 +1,8 @@
 # ur10_w_phantom
 
 <img width="550" alt="image" src="https://github.com/imyoungchae/ur10_w_phantom/assets/87971802/25d7b805-1c15-468c-9b7b-3958957bd0df">
+
+
 - The Phantom Omni is a commercial, portable haptic device with six Degrees of Freedom (DoF) developed by Sensable Technologies. 
 - The Universal Robots UR10 is the largest robot in their basic CB3-Series. This robot is widely used in industry and academia. It has 6 degrees of freedom, similar to the Phantom Omni robot.
 
