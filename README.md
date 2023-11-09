@@ -1,4 +1,4 @@
-# ur10_w_phantom
+# ur5_w_phantom
 
 <img width="550" alt="image" src="https://github.com/imyoungchae/ur10_w_phantom/assets/87971802/25d7b805-1c15-468c-9b7b-3958957bd0df">
 
